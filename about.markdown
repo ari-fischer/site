@@ -8,7 +8,12 @@ permalink: /about/
 
 I earned my PhD in Chemical Engineering at the University of California, Berkeley (2021). My doctoral studies focused on the fundamental mechanisms behind metal-catalyzed hydrogenation reactions and the synergies between metals and metal oxides. 
 
-I am currently a research fellow at Nanyang Technological University in Singapore. I apply multiscale modelling, computational chemistry tools, and mechanistic inquiry to explore the nature of oxidation reactions driven by ultrasound. 
+
+From 2022-2025, I worked as a postdoctoral research fellow at Nanyang Technological University in Singapore. I applied multiscale modelling, computational chemistry tools, and mechanistic inquiry to explore the nature of oxidation reactions driven by ultrasound. 
+
+
+In the Fall 2025, I joined the Laboratory for Chemical Technology at Ghent University in Belgium as a postdoctoral research fellow.
+
 
 You can learn more about my work on my [google scholar page](https://scholar.google.com/citations?user=BGqpsqAAAAAJ&hl=en) in the following journal articles:
 
