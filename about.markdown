@@ -18,18 +18,18 @@ Pre-print and submitted
 
 Accepted and in print
 
-2.	**Fischer, A. F.**. “Toluene hydrogenation on Pt nanoparticles: Site-ensemble requirements and inverse temperature effects on rates.” Journal of Catalysis, 454, 116574 (2026). <https://doi.org/10.1016/j.jcat.2025.116574> [OA preprint](https://doi.org/10.26434/chemrxiv-2024-13dc5)
+2.	**Fischer, A. F.**. “Toluene hydrogenation on Pt nanoparticles: Site-ensemble requirements and inverse temperature effects on rates.” Journal of Catalysis, 454, 116574 (2026). <https://doi.org/10.1016/j.jcat.2025.116574> • [OA preprint](https://doi.org/10.26434/chemrxiv-2024-13dc5)
 
 
-3.	**Fischer, A. F.**; Bahry, T.; Xie, Z.; da Silva Junior, R. B.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu W.; Amaniampong, P. N.; Choksi, T. S., “The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol under Ultrasound Irradiation,” ChemSusChem, 18, e202500097 (2025). <https://doi.org/10.1002/cssc.202500097> [OA preprint](https://doi.org/10.26434/chemrxiv-2024-b33q8)
+3.	**Fischer, A. F.**; Bahry, T.; Xie, Z.; da Silva Junior, R. B.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu W.; Amaniampong, P. N.; Choksi, T. S., “The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol under Ultrasound Irradiation,” ChemSusChem, 18, e202500097 (2025). <https://doi.org/10.1002/cssc.202500097> • [OA preprint](https://doi.org/10.26434/chemrxiv-2024-b33q8)
 
-4.	**Fischer, A. F.**. “Determining site requirements for reactive species in multi-site catalysis on metal surfaces using excluded areas.” Journal of Catalysis, 448, 116179 (2025). <https://doi.org/10.1016/j.jcat.2025.116574> [OA preprint](https://doi.org/10.26434/chemrxiv-2025-f9955)
+4.	**Fischer, A. F.**. “Determining site requirements for reactive species in multi-site catalysis on metal surfaces using excluded areas.” Journal of Catalysis, 448, 116179 (2025). <https://doi.org/10.1016/j.jcat.2025.116574> • [OA preprint](https://doi.org/10.26434/chemrxiv-2025-f9955)
 
 5.	Xie, Z.; Mahendran, V.; Jonnalagadda, U. S.; Fan, Q.; Su, X; **Fischer, A. F.**; Tan, M.; Tao, L.; Jerome, F.; Valange, S.; Kwan, J.; Choksi, T. S.; Amaniampong, P. N.;  Liu W., “Boosting Energy Efficiency and Selectivity of Glucose Oxidation to Glucuronic Acid in High Frequency Ultrasound Using Multicavity CuO Catalytic Cavitation Agents,” Green Chemistry, 27, 573-585 (2025). <https://doi.org/10.1039/D4GC03775H> 
 
 
-6.	**Fischer, A. F.**; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu W.; Amaniampong, P. N.; Choksi, T. S., “Harnessing Ultrasound-derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions,” ChemSusChem, 17, e202400838 (2024). <https://doi.org/10.1002/cssc.202400838>
-[OA preprint](https://doi.org/10.26434/chemrxiv-2024-01sv9)
+6.	**Fischer, A. F.**; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu W.; Amaniampong, P. N.; Choksi, T. S., “Harnessing Ultrasound-derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions,” ChemSusChem, 17, e202400838 (2024). <https://doi.org/10.1002/cssc.202400838> •
+ [OA preprint](https://doi.org/10.26434/chemrxiv-2024-01sv9)
 
 7.	**Fischer, A. F.** and Iglesia, E., “The Nature of ‘Hydrogen Spillover’: Site Proximity Effects and Gaseous Intermediates in Hydrogenation Reactions Mediated by Inhibitor-scavenging Mechanisms,” Journal of Catalysis (2023), 420, 68-88. <https://doi.org/10.1016/j.jcat.2022.11.013>
 
