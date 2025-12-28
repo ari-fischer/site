@@ -18,7 +18,7 @@ In the Fall 2025, I joined the Laboratory for Chemical Technology at Ghent Unive
 You can learn more about my work on my [google scholar page](https://scholar.google.com/citations?user=BGqpsqAAAAAJ&hl=en) in the following journal articles:
 
 
-<u>**Articles**</u>
+**<u>Articles</u>**
 
 Pre-print and submitted
 
