@@ -35,4 +35,5 @@ Accepted and in print
 
 
 8.	**Fischer, A.**#; Du, S.#; Valla, J. A.; Bollas, G. M., “The effect of temperature, heating rate, and ZSM-5 catalyst on the product selectivity of the fast pyrolysis of Spent Coffee Grounds,” RSC Advances (2015), 5, 29252–29261. <https://doi.org/10.1039/C5RA00212E>
+
 #authors contributed equally
