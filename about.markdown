@@ -17,6 +17,9 @@ In the Fall 2025, I joined the Laboratory for Chemical Technology at Ghent Unive
 
 You can learn more about my work on my [google scholar page](https://scholar.google.com/citations?user=BGqpsqAAAAAJ&hl=en) in the following journal articles:
 
+
+<u>**Articles**</u>
+
 Pre-print and submitted
 
 1.	**Fischer, A. F.**; Maligon Querimit, R.; Choksi, T. S. “An Energy Descriptor Unifying Acoustic and Physicochemical Effects on Radical Yields in Ultrasonic Cavitation.” under revision (2026). [OA preprint](https://doi.org/10.26434/chemrxiv-2025-5582r)
