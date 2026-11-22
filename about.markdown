@@ -22,29 +22,29 @@ You can learn more about my work on my [google scholar page](https://scholar.goo
 
 ## Preprints
 
-<u>Fischer, A. F.</u>; Saeys, M.* **“Footprint-aware Microkinetics Reveal Spatial Correlations with Catalytic Consequences.”** *ChemRxiv* preprint (2026). DOI: 10.26434/chemrxiv.15011017/v1.
+1. **Fischer, A. F.**; Saeys, M.* **“Footprint-aware Microkinetics Reveal Spatial Correlations with Catalytic Consequences.”** *ChemRxiv* preprint (2026). DOI: 10.26434/chemrxiv.15011017/v1.
 
-Rihm, S.; Butler, P.; Elumalai, K.; <u>Fischer, A. F.</u>; Lim, P. C.; Rong, X.; Choksi, T. S.; Kondinski, A.; Kraft, M.* **“Prediction and Synthesis of Novel Metal-Organic Polyhedra in The World Avatar.”** *ChemRxiv* preprint (2026). DOI: 10.26434/chemrxiv.15007397.
+2. Rihm, S.; Butler, P.; Elumalai, K.; **Fischer, A. F.**; Lim, P. C.; Rong, X.; Choksi, T. S.; Kondinski, A.; Kraft, M.* **“Prediction and Synthesis of Novel Metal-Organic Polyhedra in The World Avatar.”** *ChemRxiv* preprint (2026). DOI: 10.26434/chemrxiv.15007397.
 
-<u>Fischer, A. F.</u>; Maligon Querimit, R. C.; Choksi, T. S.* **“An Energy Descriptor Unifying Acoustic and Physicochemical Effects on Radical Yields in Ultrasonic Cavitation.”** *ChemRxiv* preprint (2025). DOI: 10.26434/chemrxiv-2025-5582r.
+3. **Fischer, A. F.**; Maligon Querimit, R. C.; Choksi, T. S.* **“An Energy Descriptor Unifying Acoustic and Physicochemical Effects on Radical Yields in Ultrasonic Cavitation.”** *ChemRxiv* preprint (2025). DOI: 10.26434/chemrxiv-2025-5582r.
 
 ## Accepted and In Print
 
-Butler, P. W. V.; Subramanian, A.; Rihm, S. D.; <u>Fischer, A. F.</u>; Choksi, T. S.; Kondinski, A.; Mosbach, S.; Akroyd, J.; Kraft, M.* **“Computational Modelling Workflows for Metal-Organic Polyhedra in The World Avatar.”** *Physical Chemistry Chemical Physics* **2026**, *28* (24), 14828.
+4. Butler, P. W. V.; Subramanian, A.; Rihm, S. D.; **Fischer, A. F.**; Choksi, T. S.; Kondinski, A.; Mosbach, S.; Akroyd, J.; Kraft, M.* **“Computational Modelling Workflows for Metal-Organic Polyhedra in The World Avatar.”** *Physical Chemistry Chemical Physics* **2026**, *28* (24), 14828.
 
-<u>Fischer, A. F.</u>* **“Toluene Hydrogenation on Pt Nanoparticles: Site-Ensemble Requirements and Inverse Temperature Effects on Rates.”** *Journal of Catalysis* **2026**, *454*, 116574.
+5. **Fischer, A. F.*** **“Toluene Hydrogenation on Pt Nanoparticles: Site-Ensemble Requirements and Inverse Temperature Effects on Rates.”** *Journal of Catalysis* **2026**, *454*, 116574.
 
-<u>Fischer, A. F.</u>* **“Determining Site Requirements for Reactive Species in Multi-Site Catalysis on Metal Surfaces Using Excluded Areas.”** *Journal of Catalysis* **2025**, *448*, 116179.
+6. **Fischer, A. F.*** **“Determining Site Requirements for Reactive Species in Multi-Site Catalysis on Metal Surfaces Using Excluded Areas.”** *Journal of Catalysis* **2025**, *448*, 116179.
 
-<u>Fischer, A. F.</u>; Bahry, T.; Xie, Z.; da Silva Junior, R. B.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol under Ultrasound Irradiation.”** *ChemSusChem* **2025**, e202500097.
+7. **Fischer, A. F.**; Bahry, T.; Xie, Z.; da Silva Junior, R. B.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol under Ultrasound Irradiation.”** *ChemSusChem* **2025**, e202500097.
 
-Xie, Z.; Mahendran, V.; Jonnalagadda, U. S.; Fan, Q.; Su, X.; <u>Fischer, A. F.</u>; Tan, M.; Tao, L.; Jerome, F.; Valange, S.; Kwan, J.; Choksi, T. S.; Amaniampong, P. N.; Liu, W. **“Boosting Energy Efficiency and Selectivity of Glucose Oxidation to Glucuronic Acid in High Frequency Ultrasound Using Multicavity CuO Catalytic Cavitation Agents.”** *Green Chemistry* **2025**, *27*, 573.
+8. Xie, Z.; Mahendran, V.; Jonnalagadda, U. S.; Fan, Q.; Su, X.; **Fischer, A. F.**; Tan, M.; Tao, L.; Jerome, F.; Valange, S.; Kwan, J.; Choksi, T. S.; Amaniampong, P. N.; Liu, W. **“Boosting Energy Efficiency and Selectivity of Glucose Oxidation to Glucuronic Acid in High Frequency Ultrasound Using Multicavity CuO Catalytic Cavitation Agents.”** *Green Chemistry* **2025**, *27*, 573.
 
-<u>Fischer, A. F.</u>; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“Harnessing Ultrasound-Derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions.”** *ChemSusChem* **2024**, *17*, e202400838.
+9. **Fischer, A. F.**; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“Harnessing Ultrasound-Derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions.”** *ChemSusChem* **2024**, *17*, e202400838.
 
-<u>Fischer, A. F.</u>; Iglesia, E. **“The Nature of ‘Hydrogen Spillover’: Site Proximity Effects and Gaseous Intermediates in Hydrogenation Reactions Mediated by Inhibitor-Scavenging Mechanisms.”** *Journal of Catalysis* **2023**, *420*, 68.
+10. **Fischer, A. F.**; Iglesia, E. **“The Nature of ‘Hydrogen Spillover’: Site Proximity Effects and Gaseous Intermediates in Hydrogenation Reactions Mediated by Inhibitor-Scavenging Mechanisms.”** *Journal of Catalysis* **2023**, *420*, 68.
 
-<u>Fischer, A. F.</u>†; Du, S.†; Valla, J. A.; Bollas, G. M. **“The Effect of Temperature, Heating Rate, and ZSM-5 Catalyst on the Product Selectivity of the Fast Pyrolysis of Spent Coffee Grounds.”** *RSC Advances* **2015**, *5*, 29252.
+11. **Fischer, A. F.**†; Du, S.†; Valla, J. A.; Bollas, G. M. **“The Effect of Temperature, Heating Rate, and ZSM-5 Catalyst on the Product Selectivity of the Fast Pyrolysis of Spent Coffee Grounds.”** *RSC Advances* **2015**, *5*, 29252.
 
 \* Corresponding author.  
 † Authors contributed equally.
