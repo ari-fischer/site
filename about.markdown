@@ -38,13 +38,13 @@ You can learn more about my work on my [google scholar page](https://scholar.goo
 
 7. **Fischer, A. F.**; Bahry, T.; Xie, Z.; da Silva Junior, R. B.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol under Ultrasound Irradiation.”** *ChemSusChem* **2025**, e202500097.
 
-8. Xie, Z.; Mahendran, V.; Jonnalagadda, U. S.; Fan, Q.; Su, X.; **Fischer, A. F.**; Tan, M.; Tao, L.; Jerome, F.; Valange, S.; Kwan, J.; Choksi, T. S.; Amaniampong, P. N.; Liu, W. **“Boosting Energy Efficiency and Selectivity of Glucose Oxidation to Glucuronic Acid in High Frequency Ultrasound Using Multicavity CuO Catalytic Cavitation Agents.”** *Green Chemistry* **2025**, *27*, 573.
+8. Xie, Z.; Mahendran, V.; Jonnalagadda, U. S.; Fan, Q.; Su, X.; **Fischer, A. F.**; Tan, M.; Tao, L.; Jerome, F.; Valange, S.; Kwan, J.; Choksi, T. S.; Amaniampong, P. N.; Liu, W.\* **“Boosting Energy Efficiency and Selectivity of Glucose Oxidation to Glucuronic Acid in High Frequency Ultrasound Using Multicavity CuO Catalytic Cavitation Agents.”** *Green Chemistry* **2025**, *27*, 573.
 
-9. **Fischer, A. F.**; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.; Choksi, T. S.* **“Harnessing Ultrasound-Derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions.”** *ChemSusChem* **2024**, *17*, e202400838.
+9. **Fischer, A. F.**; Bahry, T.; Xie, Z.; Qian, K.; Li, R.; Kwan, J.; Jerome, F.; Valange, S.; Liu, W.; Amaniampong, P. N.\*; Choksi, T. S.\* **“Harnessing Ultrasound-Derived Hydroxyl Radicals for the Selective Oxidation of Aldehyde Functions.”** *ChemSusChem* **2024**, *17*, e202400838.
 
-10. **Fischer, A. F.**; Iglesia, E. **“The Nature of ‘Hydrogen Spillover’: Site Proximity Effects and Gaseous Intermediates in Hydrogenation Reactions Mediated by Inhibitor-Scavenging Mechanisms.”** *Journal of Catalysis* **2023**, *420*, 68.
+10. **Fischer, A. F.**; Iglesia, E.\* **“The Nature of ‘Hydrogen Spillover’: Site Proximity Effects and Gaseous Intermediates in Hydrogenation Reactions Mediated by Inhibitor-Scavenging Mechanisms.”** *Journal of Catalysis* **2023**, *420*, 68.
 
-11. **Fischer, A. F.**†; Du, S.†; Valla, J. A.; Bollas, G. M. **“The Effect of Temperature, Heating Rate, and ZSM-5 Catalyst on the Product Selectivity of the Fast Pyrolysis of Spent Coffee Grounds.”** *RSC Advances* **2015**, *5*, 29252.
+11. **Fischer, A. F.**†; Du, S.†; Valla, J. A.; Bollas, G. M.\* **“The Effect of Temperature, Heating Rate, and ZSM-5 Catalyst on the Product Selectivity of the Fast Pyrolysis of Spent Coffee Grounds.”** *RSC Advances* **2015**, *5*, 29252.
 
 \* Corresponding author.  
 † Authors contributed equally.
